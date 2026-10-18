@@ -2,7 +2,7 @@
 
 **CustomLanguages** is a [MelonLoader](https://melonwiki.xyz/) mod that allows players to add custom languages.
 
-Required version of MelonLoader: 0.7.3.
+**Required version of MelonLoader: 0.7.3.**
 
 ## Creating a Custom Language
 
